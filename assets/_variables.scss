@@ -1,0 +1,25 @@
+//Dark Theme
+
+$bgc : hsl(230, 17%, 14%);  //bg
+$bgc-top : hsl(232, 19%, 15%); //top bg
+$card-bgc : hsl(228, 28%, 20%); // card bg
+$texte-grey: hsl(228, 34%, 66%);  //text
+$White : hsl(0, 0%, 100%); //text
+
+//Light Theme
+
+$bgc-light: hsl(0, 0%, 100%); //bg
+$bgc-top-light: hsl(225, 100%, 98%); //top bg
+$card-bgc-light: hsl(227, 47%, 96%); //card bg
+$text-light: hsl(228, 12%, 44%); // text
+$dark: hsl(230, 17%, 14%); //text
+
+//Primary
+
+$green: hsl(163, 72%, 41%);
+$red: hsl(356, 69%, 56%);
+
+$Facebook: hsl(208, 92%, 53%);
+$Twitter: hsl(203, 89%, 53%);
+$Instagram: linear gradient (hsl(37, 97%, 70%) to hsl(329, 70%, 58%));
+$YouTube: hsl(348, 97%, 39%);
